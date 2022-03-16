@@ -1,0 +1,70 @@
+            * {
+                margin: 0;
+                padding: 0;
+                background-color: peachpuff;
+                background-size: 100%;
+            }
+            
+            html {
+                font-family: Georgia, 'Times New Roman', Times, serif;
+                font-size: 28px;
+                margin-top: 1rem;
+                margin-left: 4rem;
+                margin-right: 4rem;
+                padding: 1rem;
+            }
+            
+            .hi {
+                width: 100%;
+                padding: 3rem 0 0 0;
+            }
+            
+            img {
+                float: right;
+                width: 450px;
+                height: 450px;
+                padding: 0 0 0 20px;
+                text-align: justify;
+            }
+            
+            .text {
+                text-align: justify;
+            }
+            
+            hr {
+                height: 3px;
+                background: black;
+                margin-top: 2rem;
+                margin-bottom: 2rem;
+            }
+            
+            table {
+                width: 100%;
+                text-align: top;
+            }
+            
+            .ow {
+                font-family: Georgia, 'Times New Roman', Times, serif;
+                font-size: 28px;
+            }
+            
+            .uwu {
+                text-indent: 2rem;
+            }
+            
+            .tey {
+                text-indent: 3rem;
+            }
+            
+            ul {
+                margin-left: 2rem;
+            }
+            
+            h1 {
+                font-size: 32px;
+            }
+            
+            h2 {
+                font-size: 28px;
+                padding-bottom: 1rem;
+            }
